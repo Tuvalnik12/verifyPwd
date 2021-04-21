@@ -1,0 +1,2 @@
+# verifyPwd
+A JS kata
