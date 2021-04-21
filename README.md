@@ -9,7 +9,7 @@ A JS kata
 * Make it pass
 * Refactor
 
-![TDD Cycles](https://github.com/Tuvalnik12/[reponame]/blob/main/static/tdd-cycles.png?raw=true)
+![TDD Cycles](https://github.com/Tuvalnik12/main/blob/main/static/tdd-cycles.png?raw=true)
 
 ### Tests to start with:
 * No rules, passes
